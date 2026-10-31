@@ -1,0 +1,6 @@
+{
+  "name": "Vice City Cruiser - 3D Open World",
+  "description": "GTA Vice City style open world 3D car driving game featuring realistic physics, drifting, retro synthwave aesthetics, and the custom mint green sports sedan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
